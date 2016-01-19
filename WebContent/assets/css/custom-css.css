@@ -1,0 +1,88 @@
+.select2-choices {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.operations-container {
+	background-color: #fff;
+	border: 1px solid #999;
+	border: 1px solid rgba(0,0,0,0.3);
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	outline: 0;
+	-webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+	-moz-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+	box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+	-webkit-background-clip: padding-box;
+	-moz-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+.custom-divider {
+	height: 1px;
+	margin-top: 9px;
+	margin-bottom: 19px;
+	margin-left: 1px;
+	margin-right: 1px;
+	overflow: hidden;
+	background-color: #e5e5e5;
+	border-bottom: 1px solid #fff;
+}
+
+th.sorting {
+	padding-right: 20px !important;		/*sorting img is background. This prevents overlaying the title on the image*/
+}
+
+.display-info tbody tr:hover td {
+	background-color: #E4E4E4;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+	height: 100%;
+	/* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	/* Negative indent footer by it's height */
+	margin: 0 auto -40px;
+}
+
+/* Set the fixed height of the footer here */
+#push, 
+#footer {
+	height: 40px;
+}
+
+#footer {
+	background-color: #f5f5f5;
+	font-size: 90%;
+	text-align: center;
+}
+
+#footer p {
+	margin-top: 10px;
+}
+
+.space-top {
+	height: 60px;
+}
+
+input[disabled], 
+select[disabled], 
+textarea[disabled], 
+input[readonly], 
+select[readonly], 
+textarea[readonly] {
+	cursor: not-allowed;
+	background-color: #fcfcfc!important;
+}
