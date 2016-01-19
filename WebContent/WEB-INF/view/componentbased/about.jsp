@@ -92,7 +92,7 @@
 				<fieldset>
 					<legend class="">About us</legend>
 					<p>
-						TEDwsms was created by Alkis Kalogeris and Giorgos Eleutheriou as a university coursework. Both the creators are undergraduate students in Department of Informatics and Telecommunications of Athens University. The course was "Technology and Web Applications" and supervisors were Mr.Martakos Drakoulis and Mr.Xamodrakas Ioannis.
+						TEDwsms was created by George Eleftheriou as a university coursework. The creator is undergraduate student in Department of Informatics and Telecommunications of Athens University. The course was "Technology and Web Applications" and supervisors were Mr.Martakos Drakoulis and Mr.Xamodrakas Ioannis.
 					</p>
 				</fieldset>			
 			</form>
